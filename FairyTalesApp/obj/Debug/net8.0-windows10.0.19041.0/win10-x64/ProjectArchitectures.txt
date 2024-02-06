@@ -1,0 +1,1 @@
+C:\Nxgen\My Project\FairyTalesApp\FairyTalesApp\FairyTalesApp.csproj;x64
